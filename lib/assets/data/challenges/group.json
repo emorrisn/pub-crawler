@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Buffalo",
+    "description": "You can only drink your beverage with your left hand. It’s simple yet very effective. Of course, anyone who is left-handed need to drink with there right hands.",
+    "forfeit": "If someone catches another person drinking with their right hand, they need to yell the word “Buffalo”, and now that person has to down their drink.",
+    "type": "group"
+  },
+  {
+    "title": "Little Leprechaun",
+    "description": "You have to pretend a little man is chilling on at the top of your drink. This little man is your friend, and you don’t want to drink him. Every time you have a drink, you need to pretend to pick him up out of your drink, place him down somewhere and when you have finished taking a sip or skull of your drink, you place him back.",
+    "forfeit": "If you don’t do this and someone sees this, they merely need to yell “little leprechaun”, and now you have to take a shot.",
+    "type": "group"
+  },
+  {
+    "title": "Reverse Cheers",
+    "description": "Whenever someone in the group takes a sip, they must first make eye contact with someone else in the group and say 'cheers' before drinking.",
+    "forfeit": "If someone takes a sip without following this rule, another member of the group can call out 'Reverse Cheers', and the offender must buy a round of shots for the group.",
+    "type": "group"
+  },
+  {
+    "title": "Name Game",
+    "description": "Each member of the group chooses a fake name for the night. Throughout the evening, they must respond to that name whenever called.",
+    "forfeit": "If someone forgets to respond to their chosen name, any member of the group can call out 'Name Game', and the forgetful person must take a shot.",
+    "type": "group"
+  },
+  {
+    "title": "Forbidden Word",
+    "description": "Choose a forbidden word at the beginning of the night (e.g., 'drink', 'pub', 'beer'). Throughout the evening, no one in the group can say that word. If someone does, they must perform a designated task, such as taking a shot or doing a dance.",
+    "forfeit": "If someone accidentally says the forbidden word, another member of the group can call out 'Forbidden Word', and the offender must take a shot.",
+    "type": "group"
+  },
+  {
+    "title": "Cheers Evolution",
+    "description": "Every time the group raises their glasses to cheers, they must come up with a new toast or cheer. No repeating allowed!",
+    "forfeit": "If someone repeats a toast or cheer, another member of the group can call out 'Cheers Evolution', and the repeater must take a shot.",
+    "type": "group"
+  },
+  {
+    "title": "Dance Break",
+    "description": "At random intervals, the group must break out into an impromptu dance for at least one minute, no matter where they are in the pub.",
+    "forfeit": "If someone refuses to participate in the dance break, another member of the group can call out 'Dance Break', and the non-participant must buy a round of drinks for the group.",
+    "type": "group"
+  },
+  {
+    "title": "Wobbly Walk",
+    "description": "Participants must pretend their legs are made of jelly every time they walk to the bar. They must exaggerate their wobble as much as possible.",
+    "forfeit": "If someone walks to the bar without wobbling, they must take a sip penalty.",
+    "type": "group"
+  },
+  {
+    "title": "Sneaky Sipper",
+    "description": "Choose a designated 'sneaky sipper' for each pub. This person must secretly take sips from other people's drinks when they're not looking.",
+    "forfeit": "If caught sneaky sipping, the offender must buy a round of shots for the group.",
+    "type": "group"
+  },
+  {
+    "title": "Bartender's Buddy",
+    "description": "Each member of the group must strike up a conversation with the bartender and learn one interesting fact about them. Bonus points for getting a drink recommendation.",
+    "forfeit": "If someone fails to engage the bartender, they must buy a round of drinks for the group.",
+    "type": "group"
+  },
+  {
+    "title": "Pub Puppeteer",
+    "description": "Choose a 'pub puppeteer' for each pub. This person must secretly select a drink for another member of the group without their knowledge.",
+    "forfeit": "If the chosen drink is not enjoyed by the recipient, the pub puppeteer must take a shot penalty.",
+    "type": "group"
+  },
+  {
+    "title": "Swap Phones",
+    "description": "Each member of the group must swap their phone with the person next to them and unlock it for them to see.",
+    "forfeit": "If someone refuses to participate, they must take a shot penalty.",
+    "type": "group"
+  },
+  {
+    "title": "Finger Master",
+    "description": "One person is elected as the 'finger master' at each pub. They must discreetly place their finger on the table, and the rest of the group must follow suit. The last person to place their finger on the table must drink.",
+    "forfeit": "The last person to place their finger on the table must drink.",
+    "type": "group"
+  },
+  {
+    "title": "Hole-in-One",
+    "description": "Each member of the group must try to finish their drink in one gulp at each pub. The first person to finish their drink scores a 'hole-in-one' and gets to assign a drink penalty to the last person to finish.",
+    "forfeit": "The last person to finish their drink must take a penalty drink assigned by the person who scored a 'hole-in-one'.",
+    "type": "group"
+  },
+  {
+    "title": "Par Challenge",
+    "description": "Set a 'par' number of drinks for each pub, representing the average number of drinks it should take to complete the hole. Those who finish below par score points, while those who exceed par must take a penalty drink for each drink over par.",
+    "forfeit": "For each drink over par, the player must take a penalty drink.",
+    "type": "group"
+  },
+  {
+    "title": "Bogey Buster",
+    "description": "At each pub, one member of the group is designated as the 'bogey buster'. Their goal is to finish their drink in the fewest sips possible. If they succeed, they can assign a penalty drink to another player.",
+    "forfeit": "If the 'bogey buster' fails to finish their drink in the fewest sips, they must take a penalty drink themselves.",
+    "type": "group"
+  },
+  {
+    "title": "Water Hazard",
+    "description": "Designate certain drinks or areas of the pub as 'water hazards'. If a player spills their drink or accidentally knocks over someone else's drink, they must take a penalty drink.",
+    "forfeit": "Spilling a drink or knocking over someone else's drink results in taking a penalty drink.",
+    "type": "group"
+  },
+  {
+    "title": "Long Drive",
+    "description": "At each pub, challenge the group to order the strongest or most potent drink available. The person who finishes their drink with the highest alcohol content scores a 'long drive' and gets to assign a penalty drink to another player.",
+    "forfeit": "The person who finishes with the lowest alcohol content must take a penalty drink assigned by the person who scored the 'long drive'.",
+    "type": "group"
+  },
+  {
+    "title": "Mulligan",
+    "description": "Each player is allowed one 'mulligan' per pub, where they can request a do-over for a drink they feel they didn't complete satisfactorily (e.g., too slow, didn't finish in one gulp, etc.). However, using a 'mulligan' incurs a penalty drink.",
+    "forfeit": "Using a 'mulligan' incurs a penalty drink.",
+    "type": "group"
+  },
+  {
+    "title": "Caddie's Choice",
+    "description": "At each pub, one player is designated as the 'caddie'. The caddie chooses the drink for another player, who must then drink it in the fewest sips possible. If they succeed, they can assign a penalty drink to another player.",
+    "forfeit": "If the chosen player fails to finish the drink in the fewest sips, they must take a penalty drink themselves.",
+    "type": "group"
+  },
+  {
+    "title": "Fairway Finish",
+    "description": "Challenge the group to finish their drinks before leaving each pub. Those who fail to finish before departing must take a penalty drink at the next pub.",
+    "forfeit": "Failing to finish the drink before leaving the pub results in taking a penalty drink at the next pub.",
+    "type": "group"
+  },
+  {
+    "title": "Shotgun Start",
+    "description": "At the beginning of each pub visit, participants must 'shotgun' a drink (typically a can of beer). The fastest person to finish their drink gets to assign a penalty drink to the slowest person.",
+    "forfeit": "The slowest person to finish their 'shotgun' must take a penalty drink assigned by the fastest person.",
+    "type": "group"
+  },
+  {
+    "title": "Fairway Twosome",
+    "description": "Pairs of players are formed, and each pair must work together to complete the pub crawl as efficiently as possible. At each pub, the pair must collectively finish their drinks within a designated time frame or number of sips. The pair with the best overall performance (e.g., finishing drinks quickly, minimizing penalty drinks) wins, while the pair with the poorest performance must take a penalty drink.",
+    "forfeit": "The pair with the poorest performance must take a penalty drink.",
+    "type": "group"
+  },
+  {
+    "title": "Sand Wedge",
+    "description": "At each pub, one participant is designated as the 'sand wedge'. Their task is to finish their drink within a certain time limit set by the group. If they succeed, they can assign a penalty drink to another participant. If they fail, they must take a penalty drink themselves.",
+    "forfeit": "If the 'sand wedge' fails to finish their drink within the time limit, they must take a penalty drink themselves.",
+    "type": "group"
+  }
+]

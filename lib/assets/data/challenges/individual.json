@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Steal Something",
+    "description": "Challenge yourself to steal a small, inconspicuous item from each bar you visit during the pub crawl. It could be a coaster, a napkin, or any other item that won't cause trouble. Be discreet and avoid causing any damage.",
+    "forfeit": "If you fail to steal something from a bar, you must buy a round of drinks for the group at the next venue.",
+    "type": "individual"
+  },
+  {
+    "title": "Stranger's Drink",
+    "description": "Challenge yourself to strike up a conversation with a stranger at each bar and persuade them to buy you a drink. Be friendly, charming, and respectful in your approach.",
+    "forfeit": "If you fail to get a stranger to buy you a drink, you must buy a round of drinks for the group at the next venue.",
+    "type": "individual"
+  },
+  {
+    "title": "Toilet Attendant",
+    "description": "Volunteer to work as a toilet attendant at one of the bars during the pub crawl. Offer services such as handing out towels, mints, or offering assistance to patrons. Be courteous and professional in your interactions.",
+    "forfeit": "If you fail to work as a toilet attendant at a bar, you must buy a round of drinks for the group at the next venue.",
+    "type": "individual"
+  },
+  {
+    "title": "Lick Something",
+    "description": "Challenge yourself to lick something in a bar or club, excluding people. This could be a drink coaster, the bar counter (if clean), or any other non-person item. Be mindful of hygiene and avoid causing any disturbance.",
+    "forfeit": "If you fail to lick something in a bar or club, you must buy a round of drinks for the group at the next venue.",
+    "type": "individual"
+  },
+  {
+    "title": "Mimic a Stranger",
+    "description": "Challenge yourself to mimic a stranger's behavior or mannerisms at each bar or club you visit. Try to observe someone discreetly and mimic their gestures, speech patterns, or body language. Be respectful and avoid causing offense.",
+    "forfeit": "If you fail to mimic a stranger, you must buy a round of drinks for the group at the next venue.",
+    "type": "individual"
+  },
+  {
+    "title": "Inside Out",
+    "description": "Challenge yourself to wear an item of clothing inside out at each bar or club you visit. This could be a shirt, jacket, or any other wearable item. Be bold and embrace the unconventional!",
+    "forfeit": "If you fail to wear an item of clothing inside out, you must buy a round of drinks for the group at the next venue.",
+    "type": "individual"
+  },
+  {
+    "title": "No Say Challenge",
+    "description": "Challenge yourself to not say 'no' to any request or question posed to you during the pub crawl. Embrace spontaneity and be open to new experiences!",
+    "forfeit": "If you say 'no' to a request or question, you must buy a round of drinks for the group at the next venue.",
+    "type": "individual"
+  },
+  {
+    "title": "Foreign Speaker",
+    "description": "Challenge yourself to convince a stranger that you speak another language fluently, even if you don't actually speak it. Use gestures, expressions, and a few key phrases to create the illusion.",
+    "forfeit": "If you fail to convince a stranger that you speak another language, you must buy a round of drinks for the group at the next venue.",
+    "type": "individual"
+  },
+  {
+    "title": "Strangest Drink",
+    "description": "Challenge yourself to order the strangest or most unique drink available from the bar at each venue. Be adventurous and try something out of the ordinary!",
+    "forfeit": "If you fail to order the strangest drink, you must buy a round of drinks for the group at the next venue.",
+    "type": "individual"
+  },
+  {
+    "title": "Gender Confession",
+    "description": "Challenge yourself to confess to a stranger that you used to be the opposite gender and convincingly explain your transition story. Use empathy and sincerity to make the confession believable.",
+    "forfeit": "If you fail to convince a stranger of your gender confession, you must buy a round of drinks for the group at the next venue.",
+    "type": "individual"
+  },
+  {
+    "title": "Coin Challenge",
+    "description": "Challenge yourself to buy a drink using only coins at each bar or club you visit. Gather the necessary coins beforehand and pay for your drink in exact change.",
+    "forfeit": "If you fail to buy a drink using only coins, you must buy a round of drinks for the group at the next venue.",
+    "type": "individual"
+  },
+  {
+    "title": "No Walking, Only Running",
+    "description": "Challenge yourself to refrain from walking and only run at each bar or club you visit during the pub crawl. Maintain a brisk pace and embrace the energy of the night!",
+    "forfeit": "If you are caught walking instead of running, you must buy a round of drinks for the group at the next venue.",
+    "type": "individual"
+  },
+  {
+    "title": "Arm Wrestle Challenge",
+    "description": "Challenge someone to an arm wrestle at each bar or club you visit during the pub crawl. Test your strength and competitiveness against others!",
+    "forfeit": "If you refuse an arm wrestle challenge or lose, you must buy a round of drinks for the group at the next venue.",
+    "type": "individual"
+  }
+]
